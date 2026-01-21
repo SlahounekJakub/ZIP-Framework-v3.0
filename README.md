@@ -22,7 +22,7 @@ ZIP Framework investigates structural dynamics in physical systems and proposes 
 ## 📖 How to Read This
 
 Start with the introductory sections in the `/docs/` folder, then explore mathematical definitions and examples. Definitions are given in a way that aims for clarity and logical consistency.
-
+This repository represents the current reference state of ZIP Framework v3.0.
 ---
 
 ## 👤 Author
