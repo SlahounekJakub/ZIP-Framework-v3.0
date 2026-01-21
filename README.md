@@ -23,7 +23,7 @@ ZIP Framework investigates structural dynamics in physical systems and proposes 
 
 Start with the introductory sections in the `/docs/` folder, then explore mathematical definitions and examples. Definitions are given in a way that aims for clarity and logical consistency.
 This repository represents the current reference state of ZIP Framework v3.0.
-The complete reference document is available as [ZIP_Framework_v3.0.pdf](https://github.com/SlahounekJakub/ZIP-Framework-v3.0/blob/7a28c784e30e81ec776d1317147628bd69c7405c/ZIP%20Framework%20v3.0.pdf)
+The complete reference document is available as [ZIP_Framework_v3.0.pdf](ZIP Framework v3.0.pdf)
 ---
 
 ## 👤 Author
